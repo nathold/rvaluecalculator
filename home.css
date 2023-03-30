@@ -29,4 +29,12 @@ body {
     padding: 10px 20px;
     border-radius: 5px;
   }
+
+.button-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+}
   
